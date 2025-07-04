@@ -8,7 +8,7 @@ Learn the simplest way to download and install QuickBooks Desktop on Windows 11 
 
 .. image:: activatenow.png
    :alt: Quickbooks download
-   :target: https://fm.ci?aHR0cHM6Ly9xdWlja2Jvb2tzLXN1cHBvcnRodWIucmVhZHRoZWRvY3MuaW8=
+   :target: https://quickbooks.intuit.com/
 
 ========================================
 Step-by-Step Guide to Download QuickBooks Desktop on Windows 11 Without Mistakes
